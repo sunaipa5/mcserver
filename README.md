@@ -27,7 +27,7 @@ wget "enter_url_here"
 or
 
 ```shell
-curl "enter_url_here"
+curl -O "enter_url_here"
 ```
 
 ## Start server
