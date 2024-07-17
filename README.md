@@ -1,4 +1,11 @@
-# Setup
+# Setup with install.sh
+
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+#  Manuel Setup
 
 ```shell
 sudo apt update
