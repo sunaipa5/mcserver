@@ -57,10 +57,3 @@ sudo apt update
 sudo apt install playit
 playit
 ```
-
-## For monitoring performance 
-
-```shell 
-sudo apt install glances
-glances
-```
